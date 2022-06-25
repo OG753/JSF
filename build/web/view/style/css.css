@@ -1,0 +1,85 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 19 mai 2022, 14:46:19
+    Author     : Ghizlane
+*/
+.intro{
+    text-align: center;
+    font-size: 20px;
+}
+.Color{
+   background: calc;
+}
+.clck{
+  background-color: #4CAF50; 
+  color: white;
+  border-radius: 4px;
+  padding: 13px 29px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 100px 550px;
+  font-size: 16px;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.clck:hover {
+  background-color:  #81b367; 
+  color: white;
+}
+.clck1{
+  background-color: #4CAF50; 
+  color: white;
+  border-radius: 4px;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  margin: 0px 500px;
+  font-size: 16px;
+  box-shadow: 0 10px 12px 0 rgba(0,0,0,0.24),0 13px 25px 0 rgba(0,0,0,0.19);
+}
+.clck1:hover {
+  background-color:  #81b367; 
+  color: white;
+}
+.move{
+    margin: 0px 500px;
+}
+.th{
+    color:  black;
+}
+.supprimer{
+  background-color:  #f22f47; 
+  color: white;
+  border-radius: 4px;
+  padding: 9px 9px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  box-shadow: 0 10px 12px 0 rgba(0,0,0,0.24),0 13px 25px 0 rgba(0,0,0,0.19); 
+}
+.editer{
+  background-color:  #98b8fb; 
+  color: white;
+  border-radius: 4px;
+  padding: 3px 5px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin-top:10px; 
+  box-shadow: 0 10px 12px 0 rgba(0,0,0,0.24),0 13px 25px 0 rgba(0,0,0,0.19); 
+}
+.editer1{
+  background-color: #98b8fb; 
+  color: white;
+  border-radius: 4px;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  margin: 50px 550px;
+  font-size: 16px;
+  box-shadow: 0 10px 12px 0 rgba(0,0,0,0.24),0 13px 25px 0 rgba(0,0,0,0.19);
+}
